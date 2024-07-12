@@ -27,7 +27,7 @@ nlkk_cmb = np.load('/data/des91.b/data/gmarques/th_input/N0_CMBS4_MV.npy')
 #paths
  
 path_out = '/data/des91.b/data/gmarques/mocks/' #where the mocks are located
-path_cls = '/home/s1/ggibbins/varyparams/noise_ps/' # Edit here where you want to save it!
+path_cls = '/home/s1/ggibbins/varyparams/noiseps_good/' # Edit here where you want to save it!
 
 def make_sim(seed): #seed # = # of relizations of maps from a ps/single cosmology for all
     np.random.seed()
