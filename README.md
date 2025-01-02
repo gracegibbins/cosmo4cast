@@ -1,3 +1,3 @@
-Summer Undergraduate Laboratory Internship
-Fermilab
-Advsior: Dr. Gabriela Marques
+Summer Undergraduate Laboratory Internship  
+Fermilab  
+Advsior: Dr. Gabriela Marques  
